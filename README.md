@@ -27,7 +27,7 @@ Source Data Information:
 Files:
 - LICENSE 
   - The MIT License for the code (hcds-a2-bias.ipynb). 
-hcds-a2-bias.ipynb
+- hcds-a2-bias.ipynb
   - Fully documentated jupyter python notebook that uses data from Figshare, Population Research Bureau, and ORES API to investigate bias of political articles per country. 
   - Includes a reflection on biases present in these data. 
   - Input: data tables from Population Research Bureau and Figshare. Additionally, the script accesses the ORES API. 
